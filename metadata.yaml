@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35338'
     url: http://www.gutenberg.org/2009/agents/35338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31576#Memoria-sobre-a-descoberta-das-ilhas-de-Porto-Santo-e-Madeira-1418-1419-Fragmento-de-um-livro_
 gutenberg_bookshelf: PT Navegações e Explorações
 gutenberg_issued: '2010-03-09'
 gutenberg_type: Text
